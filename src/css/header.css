@@ -1,0 +1,128 @@
+@media only screen and (max-width: 85.625rem){
+
+    .main-offer-btn{
+
+    }
+}
+
+@media only screen and (max-width: 69.375rem){
+ 
+    .header-content h1 {
+        font-size: 4rem !important;
+    }
+}
+@media only screen and (max-width: 53.125rem){
+
+    .main-offer-btn{
+        font-size: 1rem !important;
+        padding: .5rem 1rem !important;
+    }
+    .main-offer-btn i svg{
+        width: 1.5rem;
+    }
+ 
+    .header-content h1 {
+        font-size: 3rem !important;
+    }
+    .header-content h2 {
+        font-size: 1rem !important;
+    }
+}
+@media only screen and (max-width: 39.0625rem){
+    .header-top img {
+        width: 8rem;
+        left: 0;
+        -webkit-transform: unset !important;
+        transform: translateY(-50%) !important;
+    
+    }
+    .main-offer-btn{
+        font-size: .8rem !important;
+        padding: .4rem .6rem !important;
+    }
+    .main-offer-btn i svg{
+        width: 1.5rem;
+    }
+ 
+    .header-content h1 {
+        font-size: 2rem !important;
+    }
+    .header-content h2 {
+        font-size: .8rem !important;
+    }
+    .main-offer-btn i svg {
+        margin-left: .5rem;
+        width: 1.3rem;
+    }
+}
+@media only screen and (max-width: 26.875rem){
+    .header-top img {
+        width: 6rem;
+        left: 0;
+        -webkit-transform: unset !important;
+        transform: translateY(-60%) !important;
+    
+    }
+     .signIn-btn {
+        font-size: .7rem;
+
+    }
+    
+    .main-offer-btn{
+        font-size: .8rem !important;
+        padding: .4rem .6rem !important;
+    }
+    .main-offer-btn i svg{
+        width: 1.5rem;
+    }
+ 
+    .header-content h1 {
+        font-size: 1.5rem !important;
+    }
+    .header-content h2 {
+        font-size: .6rem !important;
+    }
+    .main-offer-btn {
+        font-size: .5rem !important;
+        padding: .1rem .6rem !important;
+    }
+    .main-offer-btn i svg {
+        width: 1rem;
+    }
+}
+@media only screen and (max-width: 20.875rem){
+    .header-top img {
+        width: 4rem;
+        left: 0;
+        -webkit-transform: unset !important;
+        transform: translateY(-60%) !important;
+    
+    }
+     .signIn-btn {
+        font-size: .6rem;
+
+    }
+    
+    .main-offer-btn{
+        font-size: .6rem !important;
+        padding: .3rem .4rem !important;
+    }
+    .main-offer-btn i svg{
+        width: 1rem;
+    }
+ 
+    .header-content h1 {
+        font-size: 1.2rem !important;
+    }
+    .header-content h2 {
+        font-size: .4rem !important;
+    }
+    .main-offer-btn {
+        font-size: .4rem !important;
+        padding: .1rem .3rem !important;
+    }
+    .main-offer-btn i svg {
+        margin: 0;
+        width: 1rem;
+    }
+}
